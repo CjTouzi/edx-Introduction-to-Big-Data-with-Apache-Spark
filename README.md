@@ -11,7 +11,7 @@ Part 4: Exploring 404 Response Codes
 
 
 
-### Lab 3: TEXT ANALYSIS AND ENTITY RESOLUTION EXERCISE
+### Lab 3: Text Analysis and entity resolution
 This exercise consists of 5 parts and quiz questions:
 
 Part 1: ER as Text Similarity - Bags of Words           
