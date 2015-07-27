@@ -2,11 +2,11 @@
 
 ### Lab 1: Word Count example using Spark
 
-This exercise consists of 4 parts:
-Part 1: Creating a base RDD and pair RDDs
-Part 2: Counting with pair RDDs
-Part 3: Finding unique words and a mean value
-Part 4: Apply word count to a file
+This exercise consists of 4 parts:        
+Part 1: Creating a base RDD and pair RDDs       
+Part 2: Counting with pair RDDs         
+Part 3: Finding unique words and a mean value                     
+Part 4: Apply word count to a file                            
 
 
 ### Lab 2: Web Server Log Analysis with Apache Spark 
